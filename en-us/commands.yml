@@ -1,0 +1,4 @@
+commands:
+  utils:
+    not-found: "The command `{0}` could not be found! If you want help, use `>help`"
+    not-found-suggestion: "Did you meant `{0}` instead?"

@@ -1,0 +1,4 @@
+commands:
+  misc:
+    ping:
+      description: "This is my current status, if I'm unstable, don't worry, I'll try to be back as soon as possible!"

@@ -1,0 +1,6 @@
+commands:
+  utils:
+    support:
+      description: "Sends the invite to my official support server!"
+      server-info: "Need help with anything? Want to meet a brand new community?! Join our discord server!"
+      server-invite: "Here's the invite link, thank you! {0}"

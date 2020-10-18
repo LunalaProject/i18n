@@ -1,0 +1,9 @@
+plans:
+  none:
+    name: "Nenhum"
+  star:
+    name: "Star"
+  supernova:
+    name: "Supernova"
+  blackhole:
+    name: "Black Hole"

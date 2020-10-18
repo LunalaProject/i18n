@@ -1,0 +1,8 @@
+utils:
+  name: "Name"
+  distance: "Distance"
+  budget: "Budget"
+  security: "Security"
+  colonizer: "Colonizer"
+  visited: "Visitado"
+  mention: "Hey, I'm Lunala! A lightweight space exploration bot! My prefix on this server is `{0}`!"

@@ -1,4 +1,8 @@
 commands:
-  misc:
+  miscellaneous:
     ping:
       description: "This is my current status, if I'm unstable, don't worry, I'll try to be back as soon as possible!"
+    planetinfo:
+      description: "Shows info about the selected planet."
+      information: "Now showing info about planet **{0}**:"
+      notFound: "The selected planet doesn't exist or is unavailable, if you believe this is an issue, please contact our suport team."
